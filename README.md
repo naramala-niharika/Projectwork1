@@ -405,31 +405,31 @@ ax = sns.heatmap(confusion_matrix(y_test, y_pred), annot=True, fmt="d")
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-## Fig - 01
+## Fig 01- BOX PLOT FOR FEATURES : 
 ![__results___12_1](https://github.com/user-attachments/assets/d6751398-5a21-43ad-8d3c-e907eb6fba6c)
-## Fig - 02
+## Fig 02 - CORRELATION TABLE FOR FEATURES :
 ![__results___13_0](https://github.com/user-attachments/assets/663da6dd-9dad-42d5-8349-31f8c45c0f60)
-## Fig - 03
+## Fig 03 - OCCUPANCY RATE
 ![newplot](https://github.com/user-attachments/assets/6dccb365-b9c6-4bd1-824a-ceded761ad31)
-## Fig - 04
+## Fig - 04 - OCCUPANCY DISTRIBUTION
 ![__results___17_0](https://github.com/user-attachments/assets/c5a52eca-477c-4e0b-afb2-bda54ed78cdb)
-## Fig - 05
+## Fig - 05 - GRAPHICAL REPRESENTATION 
 ![__results___20_0](https://github.com/user-attachments/assets/b0383002-30b0-48df-ad81-c80c097f6f4b)
-## Fig - 06
+## Fig - 06 - ACCUARCY
 ![newplot (1)](https://github.com/user-attachments/assets/916d8e33-57d5-4892-91e3-a20fbeaac700)
-## Fig - 07
+## Fig - 07 - KNN CONFUSION MATRIX 
 
 ![__results___29_0](https://github.com/user-attachments/assets/a0cbd0f1-3b6f-47d9-9fcc-57b7d510fa1e)
-## Fig - 08
+## Fig - 08 - SVM CONFUSION MATRIX
 
 ![__results___32_0](https://github.com/user-attachments/assets/8a790f80-eaf1-466a-8e5f-15d6f381d563)
 
-## Fig - 09
+## Fig - 09 - TRAINING AND VALIDATION 
 
 ![newplot (2)](https://github.com/user-attachments/assets/2aafbf24-0643-4536-96a0-d5ac118613fe)
-## Fig - 10
+## Fig - 10 - CONFUSION MATRIX FOR TEST DATA
 ![__results___45_0](https://github.com/user-attachments/assets/77ebd4be-a5fe-4696-9718-418520b79b7c)
-## Fig - 11
+## Fig - 11 - CONFUSION MATRIX FOR TEST DATA
 ![__results___46_0](https://github.com/user-attachments/assets/0e31328e-f9c3-4fd7-9ffb-71a6de162483)
 
 
@@ -444,15 +444,124 @@ Before answer that, look at the confusion matrix which are created when evaluati
 
 ## Articles published / References
 ~~~
-[1]. Liu, D., et al. "Smart HVAC systems: Demand-based energy consumption for improved efficiency using ML." Energy Reports.
-[2]. Wang, S., et al. "Real-time occupancy detection using CNNs for HVAC control." IEEE Access.
-[3]. Mirakhorli, A., et al. "Machine learning models for occupant behavior in building energy systems." Energy and Buildings.
-[4]. Liu, L., et al. "Predictive models for HVAC occupancy using environmental sensors." Building Simulation.
-[5]. Yang, R., and Wang, L. "Occupancy detection for smart buildings using machine learning." MDPI Sensors.
-[6]. Jain, R.K., et al. "Modeling occupant behavior for energy efficiency using machine learning." Energy and Buildings.
-[7]. Daoud, K., et al. "A review of ML for energy efficiency in HVAC systems." Renewable and Sustainable Energy Reviews.
-[8]. Yang, X., et al. "Improving building energy performance with occupancy prediction models." Building and Environment.
-[9]. Ali, M., et al. "Deep learning for smart HVAC systems: A review." IEEE Internet of Things Journal.
+1. Liu, D., et al. "Smart HVAC systems: Demand-based energy consumption for improved efficiency using ML." Energy Reports.
+
+
+2. Wang, S., et al. "Real-time occupancy detection using CNNs for HVAC control." IEEE Access.
+
+
+3. Mirakhorli, A., et al. "Machine learning models for occupant behavior in building energy systems." Energy and Buildings.
+
+
+4. Liu, L., et al. "Predictive models for HVAC occupancy using environmental sensors." Building Simulation.
+
+
+5. Yang, R., and Wang, L. "Occupancy detection for smart buildings using machine learning." MDPI Sensors.
+
+
+6. Jain, R.K., et al. "Modeling occupant behavior for energy efficiency using machine learning." Energy and Buildings.
+
+
+7. Daoud, K., et al. "A review of ML for energy efficiency in HVAC systems." Renewable and Sustainable Energy Reviews.
+
+
+8. Yang, X., et al. "Improving building energy performance with occupancy prediction models." Building and Environment.
+
+
+9. Ali, M., et al. "Deep learning for smart HVAC systems: A review." IEEE Internet of Things Journal.
+
+
+10. Chen, Z., et al. "ML models for predicting HVAC energy consumption." Applied Energy.
+
+
+11. Das, S., et al. "Occupant-centric control using deep learning methods for smart HVAC systems." Automation in Construction.
+
+
+12. Hong, T., et al. "Occupancy-driven HVAC controls with machine learning algorithms." Building Research & Information.
+
+
+13. Caldas, L.G., et al. "Occupancy prediction in smart buildings with machine learning." Energy and AI.
+
+
+14. Ma, Y., et al. "Smart thermostats and occupant behavior prediction using deep learning." IEEE Transactions on Smart Grid.
+
+
+15. Kim, M., et al. "HVAC load forecasting using machine learning." Energy.
+
+
+16. Yu, S., et al. "A novel hybrid ML model for real-time HVAC control." IEEE Transactions on Cybernetics.
+
+
+17. Lee, E., et al. "Deep learning-based HVAC control in commercial buildings." Journal of Building Performance Simulation.
+
+
+18. Zhu, X., et al. "Multi-agent reinforcement learning for building energy optimization." Applied Energy.
+
+
+19. Liu, Y., et al. "End-to-end deep learning for HVAC systems optimization." Energy and Buildings.
+
+
+20. Zhang, Y., et al. "Using artificial intelligence for HVAC energy savings." IEEE Access.
+
+
+21. Ahmad, T., et al. "A machine learning-based framework for energy management in smart homes." Sustainable Cities and Society.
+
+
+22. Xie, J., et al. "Occupant comfort and energy efficiency trade-offs in HVAC systems." Building and Environment.
+
+
+23. Schiavon, S., et al. "Occupancy-driven HVAC control: A deep learning approach." Energy Efficiency.
+
+
+24. Luo, X., et al. "ML for predicting indoor air quality and occupancy patterns." Building Simulation.
+
+
+25. Ding, Y., et al. "Occupancy detection using Wi-Fi signals for smart HVAC systems." IEEE Sensors Journal.
+
+
+26. Chan, H., et al. "Deep learning for HVAC demand response in smart buildings." IEEE Transactions on Smart Grid.
+
+
+27. Liang, J., et al. "Data-driven approaches for smart HVAC systems." Energy and AI.
+
+
+28. Fadlullah, Z.M., et al. "AI-enhanced HVAC system control for energy efficiency." IEEE Communications Magazine.
+
+
+29. Wan, K., et al. "Machine learning methods for HVAC energy consumption prediction." Energy and Buildings.
+
+
+30. Liu, W., et al. "Building energy performance optimization with deep learning." Energy Conversion and Management.
+
+
+31. Zhong, X., et al. "Deep neural networks for HVAC systems energy efficiency." Journal of Cleaner Production.
+
+
+32. Zhu, Q., et al. "A review of AI applications in HVAC systems." IEEE Access.
+
+
+33. Agarwal, Y., et al. "Occupancy sensing and HVAC optimization using ML algorithms." Sensors.
+
+
+34. Kang, D., et al. "Smart HVAC systems with occupancy detection using deep learning." IEEE Transactions on Industrial Electronics.
+
+
+35. Lopez, C., et al. "Artificial neural networks for occupancy detection in HVAC systems." Energy Reports.
+
+
+36. Ma, Z., et al. "Deep reinforcement learning for HVAC system control." Energy Reports.
+
+
+37. Nguyen, T., et al. "A hybrid machine learning approach for HVAC systems optimization." Building and Environment.
+
+
+38. Wei, C., et al. "Occupant behavior prediction in smart buildings using deep learning." IEEE Internet of Things Journal.
+
+
+39. Gupta, A., et al. "Energy efficiency in HVAC systems using machine learning." Sustainable Energy Technologies and Assessments.
+
+
+40. Zhao, Y., et al. "Data-driven methods for energy-efficient HVAC control." Renewable Energy.
 ~~~
 
 
