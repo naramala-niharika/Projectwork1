@@ -405,31 +405,31 @@ ax = sns.heatmap(confusion_matrix(y_test, y_pred), annot=True, fmt="d")
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
+## Fig - 01
 ![__results___12_1](https://github.com/user-attachments/assets/d6751398-5a21-43ad-8d3c-e907eb6fba6c)
-
+## Fig - 02
 ![__results___13_0](https://github.com/user-attachments/assets/663da6dd-9dad-42d5-8349-31f8c45c0f60)
-
+## Fig - 03
 ![newplot](https://github.com/user-attachments/assets/6dccb365-b9c6-4bd1-824a-ceded761ad31)
+## Fig - 04
 ![__results___17_0](https://github.com/user-attachments/assets/c5a52eca-477c-4e0b-afb2-bda54ed78cdb)
-
+## Fig - 05
 ![__results___20_0](https://github.com/user-attachments/assets/b0383002-30b0-48df-ad81-c80c097f6f4b)
-
+## Fig - 06
 ![newplot (1)](https://github.com/user-attachments/assets/916d8e33-57d5-4892-91e3-a20fbeaac700)
-
+## Fig - 07
 
 ![__results___29_0](https://github.com/user-attachments/assets/a0cbd0f1-3b6f-47d9-9fcc-57b7d510fa1e)
-
-
-
+## Fig - 08
 
 ![__results___32_0](https://github.com/user-attachments/assets/8a790f80-eaf1-466a-8e5f-15d6f381d563)
 
-
+## Fig - 09
 
 ![newplot (2)](https://github.com/user-attachments/assets/2aafbf24-0643-4536-96a0-d5ac118613fe)
-
+## Fig - 10
 ![__results___45_0](https://github.com/user-attachments/assets/77ebd4be-a5fe-4696-9718-418520b79b7c)
-
+## Fig - 11
 ![__results___46_0](https://github.com/user-attachments/assets/0e31328e-f9c3-4fd7-9ffb-71a6de162483)
 
 
@@ -443,7 +443,7 @@ Before answer that, look at the confusion matrix which are created when evaluati
 
 
 ## Articles published / References
-  
+~~~
 [1]. Liu, D., et al. "Smart HVAC systems: Demand-based energy consumption for improved efficiency using ML." Energy Reports.
 [2]. Wang, S., et al. "Real-time occupancy detection using CNNs for HVAC control." IEEE Access.
 [3]. Mirakhorli, A., et al. "Machine learning models for occupant behavior in building energy systems." Energy and Buildings.
@@ -453,6 +453,6 @@ Before answer that, look at the confusion matrix which are created when evaluati
 [7]. Daoud, K., et al. "A review of ML for energy efficiency in HVAC systems." Renewable and Sustainable Energy Reviews.
 [8]. Yang, X., et al. "Improving building energy performance with occupancy prediction models." Building and Environment.
 [9]. Ali, M., et al. "Deep learning for smart HVAC systems: A review." IEEE Internet of Things Journal.
-
+~~~
 
 
