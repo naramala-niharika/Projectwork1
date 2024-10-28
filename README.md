@@ -443,7 +443,6 @@ Before answer that, look at the confusion matrix which are created when evaluati
 
 
 ## Articles published / References
-~~~
 1. Liu, D., et al. "Smart HVAC systems: Demand-based energy consumption for improved efficiency using ML." Energy Reports.
 
 
@@ -562,6 +561,6 @@ Before answer that, look at the confusion matrix which are created when evaluati
 
 
 40. Zhao, Y., et al. "Data-driven methods for energy-efficient HVAC control." Renewable Energy.
-~~~
+
 
 
